@@ -36,4 +36,4 @@ def hangman(word):
         print("You lose! It was {}.".format(word))
 
 
-hangman("")
+hangman("hello world")
